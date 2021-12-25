@@ -1,5 +1,8 @@
 # desafios-praticos-dotnet
 
-### Um repositório simples, com aplicações cmd contendo pequenos desafios, com intuito de praticar .NET C#
+### Uma aplicação cmd simples contendo pequenos desafios, com intuito de praticar a linguagem .NET C#
 
-- Feito usando .NET 6
+#### Feito usando .NET 6
+
+- Adição: Desafio Xenlongão (Commit 25/12/21).
+- Adição: Calculadora de Média de Notas (Commit 25/12/21).
