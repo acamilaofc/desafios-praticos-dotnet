@@ -8,6 +8,8 @@ namespace Desafios.Classes
       Console.WriteLine("ESCOLHA QUAL DESAFIO DESEJA RODAR:");
       Console.WriteLine("1 - Xenlongão");
       Console.WriteLine("2 - Calcular média");
+      Console.WriteLine("3 - Números da Mega Sena");
+      Console.WriteLine("4 - Adivinhar número");
 
 
       Console.WriteLine("C - Limpar tela");
@@ -29,6 +31,12 @@ namespace Desafios.Classes
 
           case "2":
             Media.MediaInit();
+            break;
+          case "3":
+            GeradorMegaSena.MegaSenaInit();
+            break;
+          case "4":
+            AdivinhaCor.AdivinhaCorInit();
             break;
           case "C":
             Console.Clear();

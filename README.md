@@ -6,3 +6,5 @@
 
 - Adição: Desafio Xenlongão (Commit 25/12/21).
 - Adição: Calculadora de Média de Notas (Commit 25/12/21).
+- Adição: Gerador dos números da Mega Sena (Commit 28/12/21).
+- Adição: Jogo de adivinhar número (Commit 28/12/21).
